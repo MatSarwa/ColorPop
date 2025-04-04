@@ -1,0 +1,12 @@
+C:\Users\xyz89\OneDrive\Pulpit\studia\semestr 5\asembler\ColorPop - instrukcja asm\ColorPop\ColorPop\bin\Debug\ColorPop.exe.config
+C:\Users\xyz89\OneDrive\Pulpit\studia\semestr 5\asembler\ColorPop - instrukcja asm\ColorPop\ColorPop\bin\Debug\ColorPop.exe
+C:\Users\xyz89\OneDrive\Pulpit\studia\semestr 5\asembler\ColorPop - instrukcja asm\ColorPop\ColorPop\bin\Debug\ColorPop.pdb
+C:\Users\xyz89\OneDrive\Pulpit\studia\semestr 5\asembler\ColorPop - instrukcja asm\ColorPop\ColorPop\bin\Debug\ColorPopC#.dll
+C:\Users\xyz89\OneDrive\Pulpit\studia\semestr 5\asembler\ColorPop - instrukcja asm\ColorPop\ColorPop\bin\Debug\ColorPopC#.pdb
+C:\Users\xyz89\OneDrive\Pulpit\studia\semestr 5\asembler\ColorPop - instrukcja asm\ColorPop\ColorPop\obj\Debug\ColorPop.csproj.AssemblyReference.cache
+C:\Users\xyz89\OneDrive\Pulpit\studia\semestr 5\asembler\ColorPop - instrukcja asm\ColorPop\ColorPop\obj\Debug\BasicWindowsForm.MainForm.resources
+C:\Users\xyz89\OneDrive\Pulpit\studia\semestr 5\asembler\ColorPop - instrukcja asm\ColorPop\ColorPop\obj\Debug\ColorPop.csproj.GenerateResource.cache
+C:\Users\xyz89\OneDrive\Pulpit\studia\semestr 5\asembler\ColorPop - instrukcja asm\ColorPop\ColorPop\obj\Debug\ColorPop.csproj.CoreCompileInputs.cache
+C:\Users\xyz89\OneDrive\Pulpit\studia\semestr 5\asembler\ColorPop - instrukcja asm\ColorPop\ColorPop\obj\Debug\ColorPop.csproj.Up2Date
+C:\Users\xyz89\OneDrive\Pulpit\studia\semestr 5\asembler\ColorPop - instrukcja asm\ColorPop\ColorPop\obj\Debug\ColorPop.exe
+C:\Users\xyz89\OneDrive\Pulpit\studia\semestr 5\asembler\ColorPop - instrukcja asm\ColorPop\ColorPop\obj\Debug\ColorPop.pdb

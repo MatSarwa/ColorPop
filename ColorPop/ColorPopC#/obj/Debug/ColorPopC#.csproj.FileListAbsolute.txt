@@ -1,0 +1,12 @@
+C:\Users\xyz89\OneDrive\Pulpit\studia\semestr 5\asembler\ColorPop - instrukcja asm\ColorPop\ColorPopC#\bin\Debug\ColorPopC#.dll
+C:\Users\xyz89\OneDrive\Pulpit\studia\semestr 5\asembler\ColorPop - instrukcja asm\ColorPop\ColorPopC#\bin\Debug\ColorPopC#.pdb
+C:\Users\xyz89\OneDrive\Pulpit\studia\semestr 5\asembler\ColorPop - instrukcja asm\ColorPop\ColorPopC#\obj\Debug\ColorPopC#.csproj.AssemblyReference.cache
+C:\Users\xyz89\OneDrive\Pulpit\studia\semestr 5\asembler\ColorPop - instrukcja asm\ColorPop\ColorPopC#\obj\Debug\ColorPopC#.csproj.CoreCompileInputs.cache
+C:\Users\xyz89\OneDrive\Pulpit\studia\semestr 5\asembler\ColorPop - instrukcja asm\ColorPop\ColorPopC#\obj\Debug\ColorPopC#.dll
+C:\Users\xyz89\OneDrive\Pulpit\studia\semestr 5\asembler\ColorPop - instrukcja asm\ColorPop\ColorPopC#\obj\Debug\ColorPopC#.pdb
+C:\Users\xyz89\OneDrive\Pulpit\ColorPop\ColorPop\ColorPopC#\bin\Debug\ColorPopC#.dll
+C:\Users\xyz89\OneDrive\Pulpit\ColorPop\ColorPop\ColorPopC#\bin\Debug\ColorPopC#.pdb
+C:\Users\xyz89\OneDrive\Pulpit\ColorPop\ColorPop\ColorPopC#\obj\Debug\ColorPopC#.csproj.AssemblyReference.cache
+C:\Users\xyz89\OneDrive\Pulpit\ColorPop\ColorPop\ColorPopC#\obj\Debug\ColorPopC#.csproj.CoreCompileInputs.cache
+C:\Users\xyz89\OneDrive\Pulpit\ColorPop\ColorPop\ColorPopC#\obj\Debug\ColorPopC#.dll
+C:\Users\xyz89\OneDrive\Pulpit\ColorPop\ColorPop\ColorPopC#\obj\Debug\ColorPopC#.pdb
